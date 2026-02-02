@@ -1,4 +1,4 @@
-# Todo API
+# TODO-API
 
 A clean and efficient RESTful Todo API built with **Express.js**, **TypeScript**, and **MongoDB**. Designed for scalability and ease of use.
 

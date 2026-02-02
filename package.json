@@ -1,5 +1,5 @@
 {
-  "name": "todo-api",
+  "name": "TODO-API",
   "version": "1.0.0",
   "description": "A professional RESTful Todo API built with Express.js, TypeScript, and MongoDB.",
   "main": "src/server.ts",
